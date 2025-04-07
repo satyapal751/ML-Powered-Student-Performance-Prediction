@@ -31,7 +31,7 @@ The goal is to analyze key factors affecting student performance and build a pre
 🏆 **Model Chosen**
 
 - **Logistic Regression**: Chosen for its simplicity and effectiveness in binary classification problems.
-- **Support Vector Machine (SVM)**: Added for comparison and performance tuning.
+- **Random Forest Classifier (RFC)**: Added for comparison and performance tuning.
 
 🔬 **Data Preprocessing**
 
