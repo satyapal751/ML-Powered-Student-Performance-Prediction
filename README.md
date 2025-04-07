@@ -1,4 +1,4 @@
-🎓 Student Performance Prediction
+# 🎓 Student Performance Prediction
 
 📌 **Project Overview**
 
